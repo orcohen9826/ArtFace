@@ -1,4 +1,4 @@
-# ArtFace - Real-Time Event Face Recognition
+# ArtFace - Real-Time Event Photo Sharing with Guest Recognition
 
 
 ArtFace provides a seamless photo experience for event guests, allowing them to receive photos of themselves as they are taken by the event photographer. In the full version of the project, guests can scan a QR code at the event to connect to a bot, allowing them to easily upload their facial photos and receive relevant event pictures in real-time.
